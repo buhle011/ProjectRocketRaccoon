@@ -1,0 +1,10 @@
+Project name : ProjectRocketRaccon
+
+Description : Technical Assessment for RoomRaccoon
+
+To execute the project expand ProjectRocketRaccon maven folder
+-Expand src/test/java
+ -Click TestRuner , right click inside test runner and select run as JUnit 
+ To view the structure of the assessment
+   -Expand RRR_Assessment
+   
